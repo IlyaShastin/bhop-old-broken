@@ -1,0 +1,20 @@
+"Gamemode"
+{
+	"menusystem"	"1"
+	"workshopid"	""
+	"base"		"base"
+	"title"		"Bunny Hop"
+	"maps"		"^bhop_"
+
+	"settings"
+	{
+		1
+		{
+			"name"		"bhop"
+			"version"	"1.0"
+			"help"		"Bhop"
+			"type"		"numeric"
+			"default"	"1"
+		}
+	}
+}
